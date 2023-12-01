@@ -1,7 +1,6 @@
 ## Olá, eu sou o Moisés Corrêa!
 
 - 📚  Estudante de Análise e Desenvolvimento de Sistemas
-- 💼  Estagiando na Secretaria da Educação de São José do Rio Preto
 
 <div 
   <a href="https://github.com/moisescorreaa">
