@@ -1,7 +1,5 @@
 ## Olá, eu sou o Moisés Corrêa!
 
-- 📚  Estudante de Análise e Desenvolvimento de Sistemas
-
 <div 
   <a href="https://github.com/moisescorreaa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moisescorreaa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
